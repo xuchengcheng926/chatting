@@ -1,0 +1,278 @@
+nohup: ignoring input
+INFO:     Uvicorn running on http://ddns.chengs.tk:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [14524] using statreload
+INFO:     Started server process [14528]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     192.168.31.74:57861 - "GET /chat/login?id=12345&pwd=123 HTTP/1.1" 200 OK
+[]
+INFO:     192.168.31.74:57862 - "GET /chat/get_fri_list?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:57863 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:57864 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:57865 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:57866 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:57867 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:57868 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:57869 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:57870 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:57871 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:57872 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:57874 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:57875 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:57876 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+[]
+INFO:     192.168.31.74:57878 - "GET /chat/get_fri_list?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:57877 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:57879 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:57880 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:57883 - "GET /chat/login?id=12345&pwd=123 HTTP/1.1" 200 OK
+[]
+INFO:     192.168.31.74:57884 - "GET /chat/get_fri_list?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:57885 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58012 - "GET /chat/login?id=12345&pwd=123 HTTP/1.1" 200 OK
+[]
+INFO:     192.168.31.74:58013 - "GET /chat/get_fri_list?id=12345&pwd=123 HTTP/1.1" 200 OK
+[]
+INFO:     192.168.31.74:58014 - "GET /chat/get_fri_list?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58015 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58016 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+[]
+INFO:     192.168.31.74:58019 - "GET /chat/get_fri_list?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58018 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58020 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58021 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58022 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58023 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58025 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58027 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58028 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58030 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58031 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58032 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58033 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58034 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58035 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58036 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58037 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58038 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58039 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58040 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58041 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58042 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58043 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58044 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58045 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58046 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58048 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58049 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58050 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58051 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58052 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58053 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58054 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58055 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58056 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58057 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58058 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58059 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58060 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58061 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58062 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58063 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58064 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58066 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58067 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58068 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58069 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58070 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58071 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58072 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58073 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58074 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58075 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58076 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58077 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58078 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58079 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58080 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58081 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58082 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58084 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58085 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58086 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+注册失败,账号已经存在
+INFO:     192.168.31.74:58092 - "GET /chat/regist?name=%E4%B8%9C%E5%AD%90&id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     192.168.31.74:58094 - "GET /chat/regist?name=%E4%B8%9C%E5%AD%90&id=55555&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:55439 - "GET /chat/login?id=12345&pwd=123 HTTP/1.1" 200 OK
+[]
+INFO:     61.158.148.26:55970 - "GET /chat/get_fri_list?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:60663 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:62023 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:63353 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:64885 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:1586 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:2876 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:4211 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:5466 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:6665 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:7812 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:9012 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:10072 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:11199 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:12416 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:13624 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:14830 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:16036 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:17272 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:18548 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:19926 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:21299 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:22579 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:23858 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:25254 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:26636 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:27856 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:29052 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:30303 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:31565 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:32836 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:34100 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:35315 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:36724 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:38186 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:39422 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:40732 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:41993 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:43211 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:44443 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:46117 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:47323 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:48633 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:49906 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:51174 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:52390 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:59786 - "GET /chat/regist?name=%E4%B8%9C%E5%AD%90&id=55555&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:59785 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:61445 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:62675 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:63924 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:65161 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:1875 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:3104 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:4425 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:5993 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:7440 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:8859 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:10243 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:11677 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:13050 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:14426 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:15475 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:16605 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:17838 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:19211 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:20498 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:21852 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:22797 - "GET /chat/login?id=55555&pwd=123 HTTP/1.1" 200 OK
+[]
+INFO:     61.158.148.26:23362 - "GET /chat/get_fri_list?id=55555&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:23301 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:24711 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+[]
+INFO:     61.158.148.26:26262 - "GET /chat/get_fri_list?id=55555&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:26066 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:27537 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:27942 - "GET /chat/get_pub_mes?id=55555&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:28754 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:29137 - "GET /chat/get_pub_mes?id=55555&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:29922 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:30291 - "GET /chat/get_pub_mes?id=55555&pwd=123 HTTP/1.1" 200 OK
+update user set friends = "12345%" where id = 55555
+INFO:     61.158.148.26:31233 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:31560 - "GET /chat/get_pub_mes?id=55555&pwd=123 HTTP/1.1" 200 OK
+update user set friends = "55555%" where id = 12345
+添加成功
+INFO:     61.158.148.26:30668 - "GET /chat/add_fri?id=55555&pwd=123&add_id=12345 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:32552 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:32779 - "GET /chat/get_pub_mes?id=55555&pwd=123 HTTP/1.1" 200 OK
+[{'id': '12345', 'name': 'cheng', 'online': 0}]
+INFO:     61.158.148.26:33630 - "GET /chat/get_fri_list?id=55555&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:33756 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:34076 - "GET /chat/get_pub_mes?id=55555&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:35857 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:35844 - "GET /chat/get_pub_mes?id=55555&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:37289 - "GET /chat/get_pub_mes?id=55555&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:37274 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:38604 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:38750 - "GET /chat/get_pub_mes?id=55555&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:40008 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:40106 - "GET /chat/get_pub_mes?id=55555&pwd=123 HTTP/1.1" 200 OK
+[{'id': '12345', 'name': 'cheng', 'online': 0}]
+INFO:     61.158.148.26:41729 - "GET /chat/get_fri_list?id=55555&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:41397 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:41477 - "GET /chat/get_pub_mes?id=55555&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:43378 - "GET /chat/get_pub_mes?id=55555&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:43460 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:44766 - "GET /chat/get_pub_mes?id=55555&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:44807 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:46066 - "GET /chat/get_pub_mes?id=55555&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:46074 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:47221 - "GET /chat/get_mes?id=55555&pwd=123&getto=12345 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:47588 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:48457 - "GET /chat/get_mes?id=55555&pwd=123&getto=12345 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:49070 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+update user set message = "{'55555': '哈哈哈哈'}" where id = 12345
+INFO:     61.158.148.26:49653 - "GET /chat/send_mes?id=55555&pwd=123&sendto=12345&message=%E5%93%88%E5%93%88%E5%93%88%E5%93%88 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:49692 - "GET /chat/get_mes?id=55555&pwd=123&getto=12345 HTTP/1.1" 200 OK
+update user set message = "{}" where id = 12345
+INFO:     61.158.148.26:50364 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:51789 - "GET /chat/get_mes?id=55555&pwd=123&getto=12345 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:52492 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:53055 - "GET /chat/get_mes?id=55555&pwd=123&getto=12345 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:53871 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:54621 - "GET /chat/get_mes?id=55555&pwd=123&getto=12345 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:55169 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:55849 - "GET /chat/get_mes?id=55555&pwd=123&getto=12345 HTTP/1.1" 200 OK
+[{'id': '55555', 'name': '东子', 'online': 0}]
+INFO:     61.158.148.26:56831 - "GET /chat/get_fri_list?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:56422 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:57103 - "GET /chat/get_mes?id=55555&pwd=123&getto=12345 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:58429 - "GET /chat/get_pub_mes?id=12345&pwd=123 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:58967 - "GET /chat/get_mes?id=55555&pwd=123&getto=12345 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:59563 - "GET /chat/get_mes?id=12345&pwd=123&getto=55555 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:60282 - "GET /chat/get_mes?id=55555&pwd=123&getto=12345 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:60889 - "GET /chat/get_mes?id=12345&pwd=123&getto=55555 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:61541 - "GET /chat/get_mes?id=55555&pwd=123&getto=12345 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:62100 - "GET /chat/get_mes?id=12345&pwd=123&getto=55555 HTTP/1.1" 200 OK
+update user set message = "{'12345': '你好'}" where id = 55555
+INFO:     61.158.148.26:62475 - "GET /chat/send_mes?id=12345&pwd=123&sendto=55555&message=%E4%BD%A0%E5%A5%BD HTTP/1.1" 200 OK
+update user set message = "{}" where id = 55555
+INFO:     61.158.148.26:62737 - "GET /chat/get_mes?id=55555&pwd=123&getto=12345 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:63300 - "GET /chat/get_mes?id=12345&pwd=123&getto=55555 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:64748 - "GET /chat/get_mes?id=55555&pwd=123&getto=12345 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:65454 - "GET /chat/get_mes?id=12345&pwd=123&getto=55555 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:1745 - "GET /chat/get_mes?id=55555&pwd=123&getto=12345 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:2458 - "GET /chat/get_mes?id=12345&pwd=123&getto=55555 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:3115 - "GET /chat/get_mes?id=55555&pwd=123&getto=12345 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:3894 - "GET /chat/get_mes?id=12345&pwd=123&getto=55555 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:4655 - "GET /chat/get_mes?id=55555&pwd=123&getto=12345 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:5374 - "GET /chat/get_mes?id=12345&pwd=123&getto=55555 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:6748 - "GET /chat/get_mes?id=12345&pwd=123&getto=55555 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:8039 - "GET /chat/get_mes?id=12345&pwd=123&getto=55555 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:9269 - "GET /chat/get_mes?id=12345&pwd=123&getto=55555 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:10679 - "GET /chat/get_mes?id=12345&pwd=123&getto=55555 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:12063 - "GET /chat/get_mes?id=12345&pwd=123&getto=55555 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:13440 - "GET /chat/get_mes?id=12345&pwd=123&getto=55555 HTTP/1.1" 200 OK
+INFO:     61.158.148.26:14825 - "GET /chat/get_mes?id=12345&pwd=123&getto=55555 HTTP/1.1" 200 OK
+INFO:     36.5.60.13:62268 - "GET /chat/regist?name=%E5%B0%8F%E6%9D%8E&id=12349&pwd=1234 HTTP/1.1" 200 OK
+INFO:     36.5.60.13:62270 - "GET /chat/login?id=12349&pwd=1234 HTTP/1.1" 200 OK
+[]
+INFO:     36.5.60.13:62271 - "GET /chat/get_fri_list?id=12349&pwd=1234 HTTP/1.1" 200 OK
+INFO:     36.5.60.13:62272 - "GET /chat/get_pub_mes?id=12349&pwd=1234 HTTP/1.1" 200 OK
+[]
+INFO:     36.5.60.13:62273 - "GET /chat/get_fri_list?id=12349&pwd=1234 HTTP/1.1" 200 OK
+INFO:     36.5.60.13:62274 - "GET /chat/get_pub_mes?id=12349&pwd=1234 HTTP/1.1" 200 OK
+INFO:     36.5.60.13:62276 - "GET /chat/get_pub_mes?id=12349&pwd=1234 HTTP/1.1" 200 OK
+INFO:     36.5.60.13:62277 - "GET /chat/get_pub_mes?id=12349&pwd=1234 HTTP/1.1" 200 OK
+INFO:     36.5.60.13:62278 - "GET /chat/get_pub_mes?id=12349&pwd=1234 HTTP/1.1" 200 OK
+INFO:     36.5.60.13:62279 - "GET /chat/get_pub_mes?id=12349&pwd=1234 HTTP/1.1" 200 OK
